@@ -15,3 +15,8 @@ Run the app with:
 ```
 npm run start
 ```
+
+You should then be able to access the dev server at:
+```
+http://127.0.0.1:3000
+```
