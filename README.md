@@ -2,16 +2,16 @@
 A networked version of Rock, Paper, Scissors using Node, Express.js, and Socket.io
 
 From the home directory, intialize the app with:
-...
+```
 npm init -y
-...
+```
 
 Add Express and Socket.io to the app:
-...
+```
 npm install express socket.io
-...
+```
 
 Run the app with:
-...
+```
 npm run start
-...
+```
